@@ -3,7 +3,7 @@
                     <img src="assets/${o}" alt="${s}" class='avatar'>
                     <div>
                         <h2>${s}</h2>
-                        <p>${i} - ${location}</p>
+                        <p>${i}</p>
                     </div>
                 </header>
                 <img src="assets/${t}" alt="Post" class='post-img click-to-like'>
